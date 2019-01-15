@@ -1,0 +1,7 @@
+{
+"AccessKeyID" : "LTAIKMCvY527TblU",
+"AccessKeySecret" : "kYmsbYIMif8irFHQdQH8JqzCDMVZWD",
+"RoleArn" : "acs:ram::1338128077029380:role/aliyunosstokengeneratorrole",
+"TokenExpireTime" : "900",
+"PolicyFile": "policy/bucket_read_write_policy.txt"
+}
