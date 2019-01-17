@@ -10,7 +10,8 @@
         "oss:ListObjects"
       ],
       "Effect": "Allow",
-      "Resource": ["acs:oss:*:*:zekunquant/*", "acs:oss:*:*:zekunquant"]
+      "Resource": ["acs:oss:*:*:zekunquant/*", "acs:oss:*:*:zekunquant",
+                    "acs:oss:*:*:zekunverify/*", "acs:oss:*:*:zekunverify"]
     }
   ],
   "Version": "1"

@@ -19,7 +19,7 @@ public class App
 {
     public static void main( String[] args ) throws Exception
     {
-    	// 开启Server，端口号为7090
+    	// 开启Server，端口号为7080
     	Server server = new Server();
     	int port = 7080;//默认端口是：7080
     	if (args.length > 0)
