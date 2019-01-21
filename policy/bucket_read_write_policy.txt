@@ -10,8 +10,8 @@
         "oss:ListObjects"
       ],
       "Effect": "Allow",
-      "Resource": ["acs:oss:*:*:zekunquant/*", "acs:oss:*:*:zekunquant",
-                    "acs:oss:*:*:zekunverify/*", "acs:oss:*:*:zekunverify"]
+      "Resource": ["acs:oss:*:*:chatroom-picture/*", "acs:oss:*:*:chatroom-picture",
+                    "acs:oss:*:*:chatroom-video/*", "acs:oss:*:*:chatroom-video"]
     }
   ],
   "Version": "1"
